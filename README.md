@@ -1,4 +1,4 @@
-# Digital-Boostersdigital-boosters/
+# digital-boosters/
 ├── public/
 │   ├── index.html
 │   └── ...
